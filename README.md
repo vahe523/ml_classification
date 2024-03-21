@@ -1,4 +1,4 @@
-Our objective is to predicting survival state of patients with liver cirrhosis which is classification problem, the survival states include  D(death), C(censored), CL(censored due to liver transplantation). Cirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption. Our data is inbalanced. We have 19 features and 1 target
+Our objective is to predict survival state of patients with liver cirrhosis which is classification problem, the survival states include  D(death), C(censored), CL(censored due to liver transplantation). Cirrhosis results from prolonged liver damage, leading to extensive scarring, often due to conditions like hepatitis or chronic alcohol consumption. Our data is inbalanced. We have 19 features and 1 target
 1.Id: unique feature which we can't use
 2.N_Days: number of days between registration and the earlier of death, transplantation, or study analysis time in July 1986
 3.Drug: type of drug D-penicillamine or placebo
